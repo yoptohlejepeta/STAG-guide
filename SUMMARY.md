@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [STAG - Guide](README.md)
 
-## Getting Started
+## Návody
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Quickstart](navody/quickstart.md)
+* [Publish your docs](navody/publish-your-docs.md)
 
 ## Basics
 
